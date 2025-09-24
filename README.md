@@ -23,7 +23,7 @@ At HEPIA I worked on:
 
 Outside HEPIA:  
 - ✅ **eJPTv2** (earned with 97%) — [verify](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3).  
-- 🎯 **CCNA** planned.  
+- 🎯 **CCNA**, **Security+** and **AZ-900** planned.  
 - OverTheWire *Bandit* and Root-Me Web labs.  
 - Home-lab pentests (Wi-Fi cracking, IP pentests with friends’ permission).
 
