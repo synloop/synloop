@@ -30,7 +30,7 @@ Outside HEPIA:
 ---
 
 ### 💻 Tech snapshot
-`C` · `Python` · `Bash` · `Rust` · `Docker` · `QEMU/KVM` · `GNS3` · `pfSense` · `WireGuard` · `ELK` · `GitLab CI/CD`
+`C` · `Python` · `Bash` · `Rust` · `Docker` · `QEMU/KVM` · `GNS3` · `pfSense` · `WireGuard` · `ELK` · `GitLab CI/CD` · `DBs/SQL/NoSQL`
 
 ---
 
