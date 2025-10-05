@@ -31,8 +31,6 @@
   </p>
 </details>
 
----
-
 ### ⚡ What can I do?
 
 At HEPIA I worked on:  
