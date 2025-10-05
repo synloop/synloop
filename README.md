@@ -4,8 +4,6 @@
 [![eJPT](https://img.shields.io/badge/eJPT-Certified-brightgreen)](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3)
 ![CCNA](https://img.shields.io/badge/CCNA-Planned-lightgrey?logo=cisco)
 
----
-
 **EN** – Final-year student @ HEPIA (Geneva), Computer Science. Passionate about **Network Security, Cloud & Pentesting**. Open to junior roles.
 
 **FR** – Étudiant en dernière année à la HEPIA (Genève) en Informatique et Systèmes de Communication. Passionné par la **sécurité réseau, le cloud et le pentest**. Disponible pour un premier emploi.
