@@ -17,7 +17,7 @@
 
   <p align="left">
     <a href="https://github.com/synloop/oort-fighter-camper-killer">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=oort-fighter-camper-killer&theme=react&bg_color=000000&title_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_icons=false" alt="oort-fighter-camper-killer">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=oort-fighter-camper-killer&theme=react&bg_color=000000&title_color=054267&hide_border=true&icon_color=054267&show_icons=false" alt="oort-fighter-camper-killer">
     </a>
     <a href="https://github.com/synloop/snort-wazuh-network-security">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=snort-wazuh-network-security&theme=react&bg_color=000000&title_color=FFFFFF&hide_border=true&icon_color=FFFFFF&show_icons=false" alt="snort-wazuh-network-security">
