@@ -10,6 +10,8 @@
 
 **FR** – Étudiant en dernière année à la HEPIA (Genève) en Informatique et Systèmes de Communication. Passionné par la **sécurité réseau, le cloud et le pentest**. Disponible pour un premier emploi.
 
+---
+
 <details open> 
   <summary><h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRiNnJkeWludHlvMnNxZHNjZ3BvMnI4N3l1ZGdtNHRpdGR0dnY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width ="80"> Make sure to check this!</h2></summary>
 
