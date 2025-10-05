@@ -12,8 +12,6 @@
 
 <details open> 
   <summary><h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRiNnJkeWludHlvMnNxZHNjZ3BvMnI4N3l1ZGdtNHRpdGR0dnY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width ="80"> Make sure to check this!</h2></summary>
-  
-  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhqbnVsOHF5MnRzMTA3cm9pY3czdGx4aGxqOXBhYnFuNDZiOXhkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPpFhwsMNrRIjN6/giphy.gif"  />
 
   <p align="left">
     <a href="https://github.com/synloop/oort-fighter-camper-killer">
@@ -26,6 +24,7 @@
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=gns3-fat-tree-ospf-frr&theme=react&bg_color=000000&title_color=0576B9&hide_border=true&icon_color=0576B9&show_icons=false" alt="gns3-fat-tree-ospf-frr">
     </a>
   </p>
+  <img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhqbnVsOHF5MnRzMTA3cm9pY3czdGx4aGxqOXBhYnFuNDZiOXhkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPpFhwsMNrRIjN6/giphy.gif"  />
 </details>
 
 ---
