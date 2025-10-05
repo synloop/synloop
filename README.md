@@ -11,13 +11,13 @@
 **FR** – Étudiant en dernière année à la HEPIA (Genève) en Informatique et Systèmes de Communication. Passionné par la **sécurité réseau, le cloud et le pentest**. Disponible pour un premier emploi.
 
 <details open> 
-  <summary><h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRiNnJkeWludHlvMnNxZHNjZ3BvMnI4N3l1ZGdtNHRpdGR0dnY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width ="50"> You want to check this!</h2></summary>
+  <summary><h2><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRiNnJkeWludHlvMnNxZHNjZ3BvMnI4N3l1ZGdtNHRpdGR0dnY3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width ="100"> You want to check this!</h2></summary>
   
   <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhqbnVsOHF5MnRzMTA3cm9pY3czdGx4aGxqOXBhYnFuNDZiOXhkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPpFhwsMNrRIjN6/giphy.gif"  />
 
   <p align="left">
     <a href="https://github.com/synloop/oort-fighter-camper-killer">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=oort-fighter-camper-killer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="oort-fighter-camper-killer">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=oort-fighter-camper-killer&theme=react&bg_color=000000&title_color=1AFF00&hide_border=true&icon_color=1AFF00&show_icons=false" alt="oort-fighter-camper-killer">
     </a>
     <a href="https://github.com/synloop/snort-wazuh-network-security">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=snort-wazuh-network-security&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="snort-wazuh-network-security">
