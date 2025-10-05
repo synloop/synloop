@@ -24,7 +24,7 @@
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=gns3-fat-tree-ospf-frr&theme=react&bg_color=000000&title_color=0576B9&hide_border=true&icon_color=0576B9&show_icons=false" alt="gns3-fat-tree-ospf-frr">
     </a>
   </p>
-  <img align="middle" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhqbnVsOHF5MnRzMTA3cm9pY3czdGx4aGxqOXBhYnFuNDZiOXhkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPpFhwsMNrRIjN6/giphy.gif"  />
+  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhqbnVsOHF5MnRzMTA3cm9pY3czdGx4aGxqOXBhYnFuNDZiOXhkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPpFhwsMNrRIjN6/giphy.gif"  />
 </details>
 
 ---
