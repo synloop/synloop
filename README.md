@@ -17,13 +17,13 @@
 
   <p align="left">
     <a href="https://github.com/synloop/oort-fighter-camper-killer">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=oort-fighter-camper-killer&theme=react&bg_color=000000&title_color=0696E9&hide_border=true&icon_color=0696E9&show_icons=false" alt="oort-fighter-camper-killer">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=oort-fighter-camper-killer&theme=react&bg_color=000000&title_color=0576B9&hide_border=true&icon_color=0576B9&show_icons=false" alt="oort-fighter-camper-killer">
     </a>
     <a href="https://github.com/synloop/snort-wazuh-network-security">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=snort-wazuh-network-security&theme=react&bg_color=000000&title_color=0696E9&hide_border=true&icon_color=0696E9&show_icons=false" alt="snort-wazuh-network-security">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=snort-wazuh-network-security&theme=react&bg_color=000000&title_color=0576B9&hide_border=true&icon_color=0576B9&show_icons=false" alt="snort-wazuh-network-security">
     </a>
     <a href="https://github.com/synloop/gns3-fat-tree-ospf-frr">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=gns3-fat-tree-ospf-frr&theme=react&bg_color=000000&title_color=0696E9&hide_border=true&icon_color=0696E9&show_icons=false" alt="gns3-fat-tree-ospf-frr">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=synloop&repo=gns3-fat-tree-ospf-frr&theme=react&bg_color=000000&title_color=0576B9&hide_border=true&icon_color=0576B9&show_icons=false" alt="gns3-fat-tree-ospf-frr">
     </a>
   </p>
 </details>
