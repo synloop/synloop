@@ -1,8 +1,8 @@
 # Hi, I'm **Yassin El Hakouni** (synloop)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-el-hakouni-10514a233/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yassin-el-hakouni-10514a233/)
 [![eJPT](https://img.shields.io/badge/eJPT-Certified-brightgreen)](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3)
-[![AZ-900](https://img.shields.io/badge/AZ--900-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/ElHakouniYassin-9603/AF0DF719F9640980?sharingId=10C7179A85EBA3F2)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Certified-brightgreen?logo=microsoftazure)](https://learn.microsoft.com/api/credentials/share/en-us/ElHakouniYassin-9603/AF0DF719F9640980?sharingId=10C7179A85EBA3F2)
 ![Security+](https://img.shields.io/badge/Security%2B-Planned-lightgrey?logo=comptia)
 ![CCNA](https://img.shields.io/badge/CCNA-Planned-lightgrey?logo=cisco)
 
