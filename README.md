@@ -43,7 +43,7 @@ At HEPIA I worked on:
 - 🖥️ **Network security & monitoring**: pfSense, WireGuard, Snort, Wazuh, ELK Stack.  
 
 Outside HEPIA:  
-- ✅ **eJPTv2** (earned with 97%) — [verify](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3).
+- ✅ **eJPTv2** (earned with 97%): hands-on junior pentesting certification (recon, scanning, exploitation, pivoting & post-exploitation). — [verify](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3).
 - ✅ **Azure fundamentals (AZ-900)**: governance/IAM basics (RBAC, Azure Policy), Cost Management, and core services hands-on. — [verify](https://learn.microsoft.com/api/credentials/share/en-us/ElHakouniYassin-9603/AF0DF719F9640980?sharingId=10C7179A85EBA3F2)
 - 🎯 **CCNA** and **Security+** planned.  
 - OverTheWire *Bandit* and Root-Me Web labs.  
