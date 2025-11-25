@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yassin-el-hakouni-10514a233/)
 [![eJPT](https://img.shields.io/badge/eJPT-Certified-brightgreen)](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Passed-blue?logo=microsoft-azure)](https://learn.microsoft.com/api/credentials/share/en-us/ElHakouniYassin-9603/AF0DF719F9640980?sharingId=10C7179A85EBA3F2)
+![Security+](https://img.shields.io/badge/Security%2B-Planned-lightgrey?logo=comptia)
 ![CCNA](https://img.shields.io/badge/CCNA-Planned-lightgrey?logo=cisco)
 
 **EN** – Final-year student @ HEPIA (Geneva), Computer Science. Passionate about **Network Security, Cloud & Pentesting**. Open to junior roles.
@@ -35,14 +37,15 @@
 
 At HEPIA I worked on:  
 - 🌐 **Networking**: L1–L7 (routing/switching, VLANs, TCP/IP, DNS/HTTP).  
-- ☁️ **Virtualisation**: QEMU, Docker, KVM, LVM labs.  
+- ☁️ **Virtualisation**: QEMU, Docker, KVM, LVM labs, Proxmox, IaaS and Cloud principles.
 - 🛡️ **Hacking & Pentesting**: GDB + ASM, Hashcat & John, Python/Bash payloads, C wrappers, Web & infra CTFs (Nmap, ffuf, Hydra, Gobuster, Metasploit…).  
 - 🔧 **Programming**: sequential & concurrent **C** (mutexes, semaphores…), plus **Python**, **Java**, **Assembly**, **Bash**, **Rust**.  
 - 🖥️ **Network security & monitoring**: pfSense, WireGuard, Snort, Wazuh, ELK Stack.  
 
 Outside HEPIA:  
-- ✅ **eJPTv2** (earned with 97%) — [verify](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3).  
-- 🎯 **CCNA**, **Security+** and **AZ-900** planned.  
+- ✅ **eJPTv2** (earned with 97%) — [verify](https://certs.ine.com/46a350dc-8200-4550-813b-097143a7d8a3).
+- ✅ **Azure fundamentals (AZ-900)**: governance/IAM basics (RBAC, Azure Policy), Cost Management, and core services hands-on. — [verify](https://learn.microsoft.com/api/credentials/share/en-us/ElHakouniYassin-9603/AF0DF719F9640980?sharingId=10C7179A85EBA3F2)
+- 🎯 **CCNA** and **Security+** planned.  
 - OverTheWire *Bandit* and Root-Me Web labs.  
 - Home-lab pentests (Wi-Fi cracking, IP pentests with friends’ permission).
 
